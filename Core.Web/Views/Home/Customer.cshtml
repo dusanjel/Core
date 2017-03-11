@@ -1,0 +1,23 @@
+﻿@model Core.Application.ViewModels.CustomerAppViewModel
+@{
+    ViewBag.Title = "Customer";
+}
+<h2>@ViewBag.Title</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id </th>
+            <th>Name </th>
+            <th>Last Name </th>
+            <th>Adress </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Id</td>            
+            <td>@Model.Name</td>
+            <td>@Model.LastName</td>
+            <td>@Model.Adress</td>                
+        </tr>       
+    </tbody>
+</table>

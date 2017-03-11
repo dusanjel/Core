@@ -1,0 +1,30 @@
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Web.deps.json
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Web.runtimeconfig.json
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Web.runtimeconfig.dev.json
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Web.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Web.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\obj\Debug\netcoreapp1.1\Core.Web.csprojResolveAssemblyReference.cache
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\obj\Debug\netcoreapp1.1\Core.Web.AssemblyInfo.cs
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\obj\Debug\netcoreapp1.1\Core.Web.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\obj\Debug\netcoreapp1.1\Core.Web.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Application.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Domain.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Infrastructure.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Application.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Infrastructure.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Domain.pdb
+D:\SourceGet\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Web.deps.json
+D:\SourceGet\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Web.runtimeconfig.json
+D:\SourceGet\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Web.runtimeconfig.dev.json
+D:\SourceGet\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Web.dll
+D:\SourceGet\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Web.pdb
+D:\SourceGet\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Application.dll
+D:\SourceGet\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Domain.dll
+D:\SourceGet\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Infrastructure.dll
+D:\SourceGet\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Application.pdb
+D:\SourceGet\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Infrastructure.pdb
+D:\SourceGet\Core\Core.Web\bin\Debug\netcoreapp1.1\Core.Domain.pdb
+D:\SourceGet\Core\Core.Web\obj\Debug\netcoreapp1.1\Core.Web.csprojResolveAssemblyReference.cache
+D:\SourceGet\Core\Core.Web\obj\Debug\netcoreapp1.1\Core.Web.AssemblyInfo.cs
+D:\SourceGet\Core\Core.Web\obj\Debug\netcoreapp1.1\Core.Web.dll
+D:\SourceGet\Core\Core.Web\obj\Debug\netcoreapp1.1\Core.Web.pdb

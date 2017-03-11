@@ -1,0 +1,13 @@
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Infrastructure\bin\Debug\netcoreapp1.1\Core.Infrastructure.deps.json
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Infrastructure\bin\Debug\netcoreapp1.1\Core.Infrastructure.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Infrastructure\obj\Debug\netcoreapp1.1\Core.Infrastructure.csprojResolveAssemblyReference.cache
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Infrastructure\obj\Debug\netcoreapp1.1\Core.Infrastructure.AssemblyInfo.cs
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Infrastructure\bin\Debug\netcoreapp1.1\Core.Infrastructure.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Infrastructure\obj\Debug\netcoreapp1.1\Core.Infrastructure.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Infrastructure\obj\Debug\netcoreapp1.1\Core.Infrastructure.pdb
+D:\SourceGet\Core\Core.Infrastructure\bin\Debug\netcoreapp1.1\Core.Infrastructure.deps.json
+D:\SourceGet\Core\Core.Infrastructure\bin\Debug\netcoreapp1.1\Core.Infrastructure.dll
+D:\SourceGet\Core\Core.Infrastructure\bin\Debug\netcoreapp1.1\Core.Infrastructure.pdb
+D:\SourceGet\Core\Core.Infrastructure\obj\Debug\netcoreapp1.1\Core.Infrastructure.AssemblyInfo.cs
+D:\SourceGet\Core\Core.Infrastructure\obj\Debug\netcoreapp1.1\Core.Infrastructure.dll
+D:\SourceGet\Core\Core.Infrastructure\obj\Debug\netcoreapp1.1\Core.Infrastructure.pdb

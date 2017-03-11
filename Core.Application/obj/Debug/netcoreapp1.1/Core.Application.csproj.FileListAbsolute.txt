@@ -1,0 +1,22 @@
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Application.deps.json
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Domain.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Infrastructure.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Application\obj\Debug\netcoreapp1.1\Core.Application.csprojResolveAssemblyReference.cache
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Application\obj\Debug\netcoreapp1.1\Core.Application.AssemblyInfo.cs
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Application.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Application.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Domain.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Infrastructure.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Application\obj\Debug\netcoreapp1.1\Core.Application.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Application\obj\Debug\netcoreapp1.1\Core.Application.pdb
+D:\SourceGet\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Application.deps.json
+D:\SourceGet\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Application.dll
+D:\SourceGet\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Application.pdb
+D:\SourceGet\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Domain.dll
+D:\SourceGet\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Infrastructure.dll
+D:\SourceGet\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Domain.pdb
+D:\SourceGet\Core\Core.Application\bin\Debug\netcoreapp1.1\Core.Infrastructure.pdb
+D:\SourceGet\Core\Core.Application\obj\Debug\netcoreapp1.1\Core.Application.csprojResolveAssemblyReference.cache
+D:\SourceGet\Core\Core.Application\obj\Debug\netcoreapp1.1\Core.Application.AssemblyInfo.cs
+D:\SourceGet\Core\Core.Application\obj\Debug\netcoreapp1.1\Core.Application.dll
+D:\SourceGet\Core\Core.Application\obj\Debug\netcoreapp1.1\Core.Application.pdb

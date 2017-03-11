@@ -1,0 +1,18 @@
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Domain\bin\Debug\netcoreapp1.1\Core.Domain.deps.json
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Domain\bin\Debug\netcoreapp1.1\Core.Infrastructure.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Domain\obj\Debug\netcoreapp1.1\Core.Domain.AssemblyInfo.cs
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Domain\bin\Debug\netcoreapp1.1\Core.Domain.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Domain\bin\Debug\netcoreapp1.1\Core.Domain.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Domain\bin\Debug\netcoreapp1.1\Core.Infrastructure.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Domain\obj\Debug\netcoreapp1.1\Core.Domain.csprojResolveAssemblyReference.cache
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Domain\obj\Debug\netcoreapp1.1\Core.Domain.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Domain\obj\Debug\netcoreapp1.1\Core.Domain.pdb
+D:\SourceGet\Core\Core.Domain\bin\Debug\netcoreapp1.1\Core.Domain.deps.json
+D:\SourceGet\Core\Core.Domain\bin\Debug\netcoreapp1.1\Core.Domain.dll
+D:\SourceGet\Core\Core.Domain\bin\Debug\netcoreapp1.1\Core.Domain.pdb
+D:\SourceGet\Core\Core.Domain\bin\Debug\netcoreapp1.1\Core.Infrastructure.dll
+D:\SourceGet\Core\Core.Domain\bin\Debug\netcoreapp1.1\Core.Infrastructure.pdb
+D:\SourceGet\Core\Core.Domain\obj\Debug\netcoreapp1.1\Core.Domain.csprojResolveAssemblyReference.cache
+D:\SourceGet\Core\Core.Domain\obj\Debug\netcoreapp1.1\Core.Domain.AssemblyInfo.cs
+D:\SourceGet\Core\Core.Domain\obj\Debug\netcoreapp1.1\Core.Domain.dll
+D:\SourceGet\Core\Core.Domain\obj\Debug\netcoreapp1.1\Core.Domain.pdb

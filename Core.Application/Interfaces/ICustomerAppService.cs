@@ -1,0 +1,12 @@
+﻿using Core.Application.ViewModels;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Core.Application.Interfaces
+{
+    public interface ICustomerAppService
+    {
+        CustomerAppViewModel getCustomer();
+    }
+}

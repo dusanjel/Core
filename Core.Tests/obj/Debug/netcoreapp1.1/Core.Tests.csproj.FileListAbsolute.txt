@@ -1,0 +1,40 @@
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Tests.deps.json
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Tests.runtimeconfig.json
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Tests.runtimeconfig.dev.json
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\obj\Debug\netcoreapp1.1\Core.Tests.csprojResolveAssemblyReference.cache
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\obj\Debug\netcoreapp1.1\Core.Tests.AssemblyInfo.cs
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Tests.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Tests.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Application.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Domain.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Infrastructure.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Web.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Web.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Application.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Domain.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Infrastructure.pdb
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\obj\Debug\netcoreapp1.1\Core.Tests.dll
+c:\Users\r103cl70\documents\visual studio 2017\Projects\Core\Core.Tests\obj\Debug\netcoreapp1.1\Core.Tests.pdb
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Tests.deps.json
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Tests.runtimeconfig.json
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Tests.runtimeconfig.dev.json
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Tests.dll
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Tests.pdb
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Application.dll
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Domain.dll
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Infrastructure.dll
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Web.dll
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Web.pdb
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Application.pdb
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Domain.pdb
+D:\SourceGet\Core\Core.Tests\bin\Debug\netcoreapp1.1\Core.Infrastructure.pdb
+D:\SourceGet\Core\Core.Tests\obj\Debug\netcoreapp1.1\Core.Tests.csprojResolveAssemblyReference.cache
+D:\SourceGet\Core\Core.Tests\obj\Debug\netcoreapp1.1\Core.Tests.AssemblyInfo.cs
+D:\SourceGet\Core\Core.Tests\obj\Debug\netcoreapp1.1\Core.Tests.dll
+D:\SourceGet\Core\Core.Tests\obj\Debug\netcoreapp1.1\Core.Tests.pdb
